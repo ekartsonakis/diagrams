@@ -1,6 +1,6 @@
-<mxfile modified="2022-03-04T22:11:44.328Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LoKIzG0IZZIQ3T53OYLH" version="16.6.6" type="github">
+<mxfile modified="2022-03-04T22:55:23.171Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="oIhL306vkjCQW4o7C_q2" version="16.6.6" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
-    <mxGraphModel dx="2496" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2497" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,9 +240,6 @@
         </mxCell>
         <mxCell id="zrUIglJ_9shYd8fkelY0-76" value="AZ1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="904" y="380" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="zrUIglJ_9shYd8fkelY0-77" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;labelBackgroundColor=none;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=#2D9130;strokeWidth=3;opacity=35;" vertex="1" parent="1">
-          <mxGeometry x="641.5" y="134" width="598.5" height="546" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
